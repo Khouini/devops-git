@@ -18,6 +18,8 @@ public class Contrat implements Serializable {
 
 	// comment
 
+
+	// modif 2
 	/**
 	 * 
 	 */
